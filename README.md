@@ -160,7 +160,7 @@ Para quem quiser instalar o emulador, segue um vídeo da RocketSeat com o passo 
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=eSjFDWYkdxM">
-    <img src="https://img.shields.io/badge/Acessar%20v%C3%ADdeo-Configurando%20Expo-blue"></img>
+    <img src="https://img.shields.io/badge/Acessar%20v%C3%ADdeo-Emulando%20Android%20e%20IOS-blue"></img>
   </a>
 </p>
 
