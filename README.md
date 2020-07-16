@@ -22,8 +22,10 @@
   <a href="#-funcionalidades">Funcionalidades</a> •
   <a href="#-tecnologias">Tecnologias</a> •
   <a href="#-executando-o-projeto">Executando o projeto</a> •
-  <a href="#-licenc-a">Licença</a>
+  <a href="#-licença">Licença</a>
 </p>
+
+---
 
 ## 📄 Sobre
 
@@ -32,6 +34,8 @@ O objetivo do **ecoleta** é conectar empresas de coleta de resíduos, com pesso
 Este projeto foi desenvolvido durante a primeira **NLW (Next Level Week)**. 
 
 A NLW é um evento de uma semana,  disponibilizado pela **RocketSeat**, com o foco em por a mão na massa. O conteúdo fica disponível apenas durante o evento.
+
+---
 
 ## 🔝 Funcionalidades
 
@@ -45,6 +49,8 @@ Pelo aplicativo, os usuários podem navegar pelo mapa e encontrar pontos de cole
   <img width="15%" alt="DemonstracaoMobile" title="DemonstracaoMobile" src="./github/mobiledemonstration.gif">
 </p>
 
+---
+
 ## 🔨 Tecnologias
 
 Estas são as principais tecnologias utilizadas na construção do projeto:
@@ -54,6 +60,8 @@ Estas são as principais tecnologias utilizadas na construção do projeto:
 - [ReactJS](https://reactjs.org/)
 - [React Native](https://reactnative.dev/)
 - [Expo](https://expo.io/)
+
+---
 
 ## 🚀 Executando o projeto
 
@@ -65,6 +73,7 @@ O projeto é dividido em três pastas:
 
 Antes de qualquer coisa, você deve ter instalado na sua máquina o [git](https://git-scm.com) e o [Node.js](https://nodejs.org/en/). Feito isso, você já pode seguir adiante.
 
+---
 
 ### 📁 Clonando repositório
 
@@ -75,6 +84,8 @@ $ git clone https://github.com/hbalardin/nlw-01-ecoleta
 # Entrando na pasta do projeto:
 cd nlw-01-ecoleta
 ```
+
+---
 
 ### 📂 Instalando dependências
 
@@ -101,6 +112,8 @@ npm install
 cd ..
 ```
 
+---
+
 ### 💾 Rodando o servidor (back-end)
 
 Antes de rodar o servidor pela primeira vez, você precisa configurar o banco de dados.
@@ -119,6 +132,8 @@ npm run knex:seed
 npm run dev
 ```
 
+---
+
 ### 💻 Rodando a aplicação web (front-end)
 
 Com o servidor rodando, abra um novo terminal e entre na pasta do projeto.
@@ -132,6 +147,8 @@ npm run start
 ```
 Caso a página não abrir automaticamente, acesse: http://localhost:3000
 
+---
+
 ### 📱 Rodando a aplicativo (mobile)
 
 Há duas formas de rodar o aplicativo:
@@ -141,9 +158,11 @@ Há duas formas de rodar o aplicativo:
 
 Para quem quiser instalar o emulador, segue um vídeo da RocketSeat com o passo a passo: 
 
-<a href="https://www.youtube.com/watch?v=eSjFDWYkdxM">
-  <img src="https://img.shields.io/badge/Acessar%20v%C3%ADdeo-Configurando%20Expo-blue"></img>
-</a>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=eSjFDWYkdxM">
+    <img src="https://img.shields.io/badge/Acessar%20v%C3%ADdeo-Configurando%20Expo-blue"></img>
+  </a>
+</p>
 
 Com o servidor rodando e com o emulador aberto, abra um novo terminal e entre na pasta do projeto.
 
