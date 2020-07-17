@@ -190,6 +190,7 @@ async function handleSubmit(event: FormEvent) {
             <div className="field">
               <label htmlFor="whatsapp">Whatsapp</label>
               <input 
+                placeholder="(Somente números)"
                 type="text"
                 name="whatsapp"
                 id="whatsapp"
@@ -230,7 +231,7 @@ async function handleSubmit(event: FormEvent) {
               </select>
             </div>
             <div className="field">
-              <label htmlFor="city">Estado (UF)</label>
+              <label htmlFor="city">Cidade</label>
               <select 
                 name="city" 
                 id="city"
