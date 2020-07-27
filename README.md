@@ -180,7 +180,7 @@ npm run start
   <img width="60%" alt="IPDemonstraction" title="IPDemonstration" src="./github/ipdemonstration.gif">
 </p>
 
-Como no gif acima, substitua o **"localhost"** pelo **endereço IP da sua máquina** nestes três arquivos arquivos:
+Como no gif acima, substitua o **"localhost"** pelo **endereço IP da sua máquina** nestes três arquivos:
 
 1. mobile -> src -> config -> ip.ts
 2. server -> src -> config -> ip.ts
