@@ -180,13 +180,11 @@ PS: For the mobile app to work correctly, you need to [configure the project wit
   <img width="60%" alt="DemonstracaoIP" title="IPDemonstracaoIP" src="./github/ipdemonstration.gif">
 </p>
 
-Like in the gif above, replace the **"localhost"** with **your machine's IP address** in the files:
+As in the gif above, replace **"localhost"** with **your machine's IP address** in these three files:
 
-1. mobile -> src -> services -> api.ts
-2. web -> src -> services -> api.ts
-3. server -> src -> controllers -> ItemsController.ts
-4. server -> src -> controllers -> PointsController.ts
-5. server -> src -> controllers -> PointsController.ts
+1. mobile -> src -> config -> ip.ts
+1. server -> src -> config -> ip.ts
+1. web -> src -> config -> ip.ts
 
 ---
 
